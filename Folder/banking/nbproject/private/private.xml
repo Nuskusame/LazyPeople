@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="1"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/Client.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/IBank.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/Account.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/IAccount.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/UserInputManager.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/IUserInputManager.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/IClient.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/Transaction.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/ITransaction.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/SavingsAccount.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/Bank.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/CheckingAccount.java</file>
+            <file>file:/C:/Users/Nick/Documents/NetBeansProjects/banking/src/banking/Banking.java</file>
+        </group>
+    </open-files>
+</project-private>
